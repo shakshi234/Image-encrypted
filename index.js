@@ -1,11 +1,4 @@
-#!/usr/bin/env node
 
-/**
- * imcrypt
- * An image encryption node-js cli
- *
- * @author theninza <https://theninza.me>
- */
 
 const init = require('./utils/init');
 const cli = require('./utils/cli');
